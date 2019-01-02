@@ -1,6 +1,6 @@
 <!-- BEGIN: mainblock -->
 <div class="panel panel-primary">
-<img class="img-png" src="/themes/theme_tet/images/canh-dao.png">
+<img class="img-png" src="/themes/{TEMPLATE}/images/canh-dao.png">
 	<div class="panel-heading">
 		{BLOCK_TITLE}
 	</div>
