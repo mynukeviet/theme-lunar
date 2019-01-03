@@ -493,7 +493,6 @@ figure {
 	position: relative;
 	padding: 3px;
 	display: block;
-	float: left;
 	margin: 5px 10px 10px 0;
 	text-align: center
 }
