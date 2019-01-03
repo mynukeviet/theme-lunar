@@ -688,16 +688,33 @@ a.btn {
 	color: #fff;
 }
 
-.body-bg {
+.header-bg{
+	background: url(../images/icons/vien-2.png);
 	position: absolute;
 	top: 0;
 	left: 0;
 	min-width: 100%;
 	min-height: 100%;
-	background: url(../images/bg.gif), url(../images/icons/vien-2.png), url(../images/bg-2.gif);
-	background-repeat: no-repeat, repeat-x, repeat-y;
-	background-position: left 51px, left top;
-	background-size: auto, auto;
+	background-repeat: repeat-x;
+}
+.header2-bg{
+	background: url(../images/bg.gif);
+	top: 48px;
+	left: 0;
+	min-width: 100%;
+	min-height: 100%;
+	position: absolute;
+	background-repeat: repeat-x;
+}
+.body-bg {
+	background:url(../images/bg-2.gif);
+	top: 0;
+	left: 0;
+	min-width: 100%;
+	min-height: 100%;
+	background-position: left 50px,left top;
+	background-size: 100%,auto;
+	position: absolute;
 }
 
 /* Header */
@@ -2147,8 +2164,14 @@ a.dimgray {
 .mokey {
 	position: absolute;
 	right: 10px;
-	top: 72px;
+	top: 37px;
+	width: 92px;
 }
+.mokey img{
+	width:100%;
+	height:100%;
+}
+
 .boder-logo .logo {
 	background: #e9e4b5;
 }

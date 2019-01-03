@@ -3,9 +3,9 @@
 <div class="news_column">
 	<div class="panel panel-default pad-default clearfix">
 		<div class="panel-heading">
-        <div class="img-kc"><img src="{NV_BASE_SITEURL}themes/theme_tet/images/vong-kc.png" /></div>
+        <div class="img-kc"><img src="{NV_BASE_SITEURL}themes/lunar_theme/images/vong-kc.png" /></div>
 			<ul class="list-inline sub-list-icon" style="margin: 0">
-				<img class="dx-img" src="{NV_BASE_SITEURL}themes/theme_tet/images/dg-xu.png" />
+				<img class="dx-img" src="{NV_BASE_SITEURL}themes/lunar_theme/images/dg-xu.png" />
                 <li><h4 class="ys"><a title="{CAT.title}" href="{CAT.link}"><span>{CAT.title}</span></a></h4></li>
 				<!-- BEGIN: subcatloop -->
 				<li class="hidden-xs lg-img"><h4><a class="dimgray" title="{SUBCAT.title}" href="{SUBCAT.link}">{SUBCAT.title}</a></h4></li>
@@ -14,7 +14,7 @@
 				<a class="dimgray pull-right hidden-xs" title="{MORE.title}" href="{MORE.link}"><em class="fa fa-sign-out">&nbsp;</em></a>
 				<!-- END: subcatmore -->
 			</ul>
-            <div class="img-kcs"><img src="{NV_BASE_SITEURL}themes/theme_tet/images/kc.png" /></div>
+            <div class="img-kcs"><img src="{NV_BASE_SITEURL}themes/lunar_theme/images/kc.png" /></div>
 		</div>
 		<!-- BEGIN: block_topcat -->
 		<div class="block-top clear">

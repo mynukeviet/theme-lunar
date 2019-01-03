@@ -2,6 +2,9 @@
 		<div class="alert alert-danger">{LANG.nojs}</div>
 	</noscript>
     <div class="body-bg">
+    <div class="header-bg"></div>
+    <div class="header2-bg"></div>
+   
 	<div class="wraper">
 		<header>
 			<div class="container">
@@ -46,7 +49,7 @@
                     <img src="{NV_BASE_SITEURL}themes/{TEMPLATE}/images/new_year_21.png" />
                     </div>
                     <div class="mokey">
-                        <img src="{NV_BASE_SITEURL}themes/{TEMPLATE}/images/monkey.gif" />
+                        <img src="{NV_BASE_SITEURL}themes/{TEMPLATE}/images/pig2019.png" />
                     </div>
 				</div>
 			</div>
