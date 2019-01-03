@@ -2,6 +2,9 @@
 		<div class="alert alert-danger">{LANG.nojs}</div>
 	</noscript>
     <div class="body-bg">
+    <div class="header-bg"></div>
+    <div class="header2-bg"></div>
+   
 	<div class="wraper">
 		<header>
 			<div class="container">
