@@ -2218,3 +2218,7 @@ a.dimgray {
 .text-home {
     color: #FFF;
 }
+.metismenu .sidebar-nav ul a {
+    border: 3px solid #ee0d0a;
+    background: url(../images/icons/point.png) no-repeat 5px 14px;
+}	
