@@ -47,7 +47,7 @@
                     </div>
                     <div class="col-xs-24 col-sm-24 col-md-14 top-img">
                     [BANNER_YEAR]
-                    <img src="{NV_BASE_SITEURL}themes/{TEMPLATE}/images/new_year_21.png" />
+                    <img src="{NV_BASE_SITEURL}themes/{TEMPLATE}/images/new_year_21.png" style="width:100%;" />
                     </div>
                     <div class="mokey">
                         <img src="{NV_BASE_SITEURL}themes/{TEMPLATE}/images/pig2019.png" />

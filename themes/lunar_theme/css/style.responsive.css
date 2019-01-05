@@ -20,6 +20,22 @@
         margin-left:0 !important
     }
 }
+@media ( max-width :767px) {
+				.top-img img {
+								width: 100%;
+				}
+				.poi-img,.ps-img,.ps-img img  {
+								display: none;
+				}
+				div.contactDefault>span {
+								position: relative;
+								top: -5px;
+				}
+				.social-icons, .contactDefault, .personalArea {
+								margin-top: 5px;
+				}
+}
+
 @media (max-width:767px) {
     .body-bg,
     .container {
@@ -78,8 +94,8 @@
         display:none
     }
     #menusite .navbar-default {
-        background-color: #428BCA !important;
-        border-color:#428BCA !important;
+        background-color: #9f2b1d !important;
+        border-color:#9f2b1d !important;
         -webkit-border-top-left-radius:0;
         -webkit-border-top-right-radius:0;
         -webkit-border-bottom-right-radius:5px;
@@ -99,7 +115,7 @@
         margin-right:0 !important;
     }
     #menusite .navbar-default .navbar-nav > li > a {
-        background-color:#428BCA !important;
+        background-color:#9f2b1d !important;
         color:#ffffff !important;
     }
     #menusite .navbar-default .navbar-nav > li > a:hover,
@@ -113,7 +129,7 @@
     #menusite .navbar-default .navbar-nav > .active > a,
     #menusite .navbar-default .navbar-nav > .active > a:hover,
     #menusite .navbar-default .navbar-nav > .active > a:focus{
-        background:#4247ca !important;
+        background:#e1402d !important
         color:#ffffff !important;
     }
 
@@ -123,7 +139,8 @@
     #menusite .navbar-collapse {
         padding-left:0 !important;
         padding-right:0 !important;
-        margin-top: -51px !important
+        margin-top: -51px !important;
+        
     }
 
     #menusite .navbar-toggle {
@@ -136,12 +153,12 @@
     #menusite .navbar-toggle:hover,
     #menusite .navbar-toggle:focus {
         color:#ffffff !important;
-        background-color:#245682 !important;
+        background-color:#d40e0e !important
     }
     #menusite .navbar-nav .dropdown-mobile {
         border-top-width:1px !important;
         border-top-style: solid !important;
-        border-top-color: #82b2dc !important;
+        border-top-color: #e1402d !important
     }
     #menusite .dropdown-submenu {
         margin:0;
