@@ -3,6 +3,7 @@
 	</noscript>
     <div class="body-bg">
     <div class="header-bg"></div>
+    
     <div class="header2-bg"></div>
    
 	<div class="wraper">
