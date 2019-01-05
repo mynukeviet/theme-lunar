@@ -690,12 +690,12 @@ a.btn {
 
 .header-bg{
 	background: url(../images/icons/vien-2.png);
-	position: absolute;
 	top: 0;
 	left: 0;
 	min-width: 100%;
 	min-height: 100%;
 	background-repeat: repeat-x;
+	position: absolute;
 }
 .header2-bg{
 	background: url(../images/bg.gif);
@@ -714,7 +714,6 @@ a.btn {
 	min-height: 100%;
 	background-position: left 50px,left top;
 	background-size: 100%,auto;
-	position: absolute;
 }
 
 /* Header */
@@ -1796,7 +1795,6 @@ input[type=radio]:checked:before {
 }
 
 .panel-primary > .panel-heading > a {
-	color: #fff;
 }
 
 .panel-primary > .panel-heading > a:hover {
@@ -2054,6 +2052,9 @@ button.close {
 	top: -125%;
 	height: 135px;
 }
+.panel-primary > .panel-heading a{
+	color: #fffc00;			
+}
 .panel-primary > .panel-heading {
 	color: #fffc00;
 	background-color: #9f0b0a;
@@ -2119,7 +2120,7 @@ a.dimgray {
 	background-color: #930123;
 	font-weight: 600;
 }
-.panel-defaultb > .panel-headingb {
+.panel-defaultb > .panel-headingb,.panel-defaultb > .panel-headingb a {
 	color: #fffc00;
 	background-color: #9f0b0a;
 	border-color: #be0d0c;
@@ -2216,3 +2217,7 @@ a.dimgray {
 .text-home {
     color: #FFF;
 }
+.metismenu .sidebar-nav ul a {
+    border: 3px solid #ee0d0a;
+    background: url(../images/icons/point.png) no-repeat 5px 14px;
+}	
