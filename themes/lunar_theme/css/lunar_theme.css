@@ -2221,4 +2221,9 @@ a.dimgray {
 .metismenu .sidebar-nav ul a {
     border: 3px solid #ee0d0a;
     background: url(../images/icons/point.png) no-repeat 5px 14px;
+}
+.metismenu .sidebar-nav ul ul a {
+    background-color: #930123 !important;
+    background: transparent !important;
+    font-weight: 500;
 }	
